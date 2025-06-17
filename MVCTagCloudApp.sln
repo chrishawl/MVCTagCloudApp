@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTagCloudApp", "MVCTagCloudApp\MVCTagCloudApp.csproj", "{FDAB9EE7-BEEE-4D8F-BDF6-C99085E1EE17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTagCloudAppCore", "MVCTagCloudAppCore\MVCTagCloudAppCore.csproj", "{C4B36DD9-992F-526F-2AC8-C586C53D0A7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FDAB9EE7-BEEE-4D8F-BDF6-C99085E1EE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDAB9EE7-BEEE-4D8F-BDF6-C99085E1EE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDAB9EE7-BEEE-4D8F-BDF6-C99085E1EE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B36DD9-992F-526F-2AC8-C586C53D0A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B36DD9-992F-526F-2AC8-C586C53D0A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B36DD9-992F-526F-2AC8-C586C53D0A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B36DD9-992F-526F-2AC8-C586C53D0A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
