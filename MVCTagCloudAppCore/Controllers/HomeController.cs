@@ -16,7 +16,7 @@ namespace MVCTagCloudApp.Controllers
     {
         private readonly IHttpClientFactory _httpClientFactory;
 
-        public HomeController(IHttpClientFactory(httpClientFactory)
+        public HomeController(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
         }
